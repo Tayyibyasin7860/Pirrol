@@ -1,0 +1,30 @@
+/*One page starts*/
+
+/*Home Starts*/
+.col-md-3 img{
+	margin-top: 20px;
+	margin-left: 45px;
+	margin-bottom: 20px;
+}
+#navigation{
+	margin-right: 25px;
+}
+#navigation li a{
+	color: black;
+	background-color: transparent;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#navigation li a:active{
+	color: #5FD8D5;
+}
+#section-1{
+	background-color: #F6F6F6;
+}
+#section-1 div{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+#section-1 div h1{
+	margin-bottom: 20px;
+}
